@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Antverse1
-- 👀 I’m interested in Computer Hardware, Software and other new technologies.
+- 👀 I’m interested in computer hardware, software and other new technologies.
 - 🌱 I’m currently learning Basics of C++ and Python
 
 
