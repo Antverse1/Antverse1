@@ -11,7 +11,7 @@
 <div size='20px'> Hi! My name is Ant. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me <img src = "https://media.giphy.com/media/MyibCKeY7w2TS/giphy.gif?cid=ecf05e47ong65w4t5y6mbm0jpg4crpzq3fgyl880mknicdt0&rid=giphy.gif&ct=s" width = 100px></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
