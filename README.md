@@ -44,20 +44,26 @@
 
 
 
-
+<div align="left">
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <!-- <a href = 'https://www.linkedin.com/in/xyz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://www.twitter.com/xyz'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> -->
 <a href = 'https://github.com/Antverse1'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-
+</div>
 
 
 
 
 <br>
 <br>
-<h2><footer align='center'>Thank You For Visiting My GitHub Profile</footer></h2>
+<br>
+<br>
+<div align="center">
+<h3><footer align='center'>Thank You For Visiting My GitHub Profile </footer></h3>
+<img src='https://media.giphy.com/media/fSptAINJfyGe3oPHNZ/giphy.gif?cid=ecf05e47bshfdopio2k6w2qvbehblftsttj7epqcn8bthxyn&rid=giphy.gif&ct=s' width="100px">
+</div>
 <br>
 <br>
 
+  
 <!--- Future notes. Stuff inside <! are all unseeable and are for future purposes.--->
