@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on my GitHub ReadMe
 
-- 🌱 I’m currently learning Python and C++ 
+- 🌱 I’m currently learning Python and C Data Structures 
 
 <!-- - 👯 I’m looking to collaborate on Nothing For Now :P 
 
