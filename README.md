@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on Python Projects
 
-- 🌱 I’m currently learning Python: GUI with Tkinter, Data Science & ML C Programming: Data Structures
+- 🌱 I’m currently learning Python: GUI with Tkinter, Data Science & ML || C Programming: Data Structures
 
 <!-- 👯 I’m looking to collaborate on  -->
 
