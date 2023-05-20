@@ -3,9 +3,9 @@
 <div size='20px'> You can call me Ant. </div>
 
 
-- 🔭 I’m currently working on Python Projects
+- 🔭 I’m currently working on College Projects
 
-- 🌱 I’m currently learning Python: GUI with Tkinter, Data Science & ML || C Programming: Data Structures
+- 🌱 I’m currently learning Python: Data Science & ML || DS&Algorithms || DBMS
 
 <!-- 👯 I’m looking to collaborate on  -->
 
