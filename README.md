@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anant</h1>
 <h3 align="center">Just a learner!</h3>
 
-- 🔭 I’m currently working on **NN and CV projects**
+- 🔭 I’m currently working on **Final Year project** which uses Raspberry Pi!
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning more about **Python** and **ML**
 
 - 💬 Ask me about **Markdown!**
 
